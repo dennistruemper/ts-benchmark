@@ -1,8 +1,8 @@
 # Results
 
-## command: `time npx jest`
+## command: `time npx jest` or `time npx jest test/1.test.ts`
 
-| Device              | Settings                      | time npx jest | timw npx jest test/1.test.ts |
+| Device              | Settings                      | time npx jest | time npx jest test/1.test.ts |
 | ------------------- | ----------------------------- | ------------- | ---------------------------- |
 | Asus Flox z13 i9    | Powercord / performance       | 12.3s         |                              |
 | Asus Flox z13 i9    | Powercord / blanced           | 13.5s         | 3.1s                         |
