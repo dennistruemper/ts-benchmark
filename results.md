@@ -16,7 +16,7 @@
 | Surface Pro 9 i7 16GB | Powercord / quiet             | 21.4s         |                              |
 | Surface Pro 9 i7 16GB | Powercord / blanced           | 19.7s         |                              |
 | Surface Pro 9 i7 16GB | Powercord / performance       | 19.029 s      | 1.831 s                      |
-| Macbook Pro M1 16GB   | no powerchord                 | 24.5s         | 2.3s                         |
-| Macbook Pro M1 16GB   | with powerchord               | 25.0s         | 2.4s                         |
-| Macbook Air M2 16GB   | no powerchord                 | 35.5s         | 0.53s                        |
-| Macbook Air M2 16GB   | with powerchord               | 15.9s         | 0.37s                        |
+| MacBook Pro M1 16GB   | no powercord                  | 24.5s         | 2.3s                         |
+| MacBook Pro M1 16GB   | with powercord                | 25.0s         | 2.4s                         |
+| MacBook Air M2 16GB   | no powercord                  | 35.5s         | 0.53s                        |
+| MacBook Air M2 16GB   | with powercord                | 15.9s         | 0.37s                        |
