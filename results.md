@@ -13,6 +13,8 @@
 | Asus Flox z13 i9      | WSL / Powercord / blanced     | 13.8s         |                              |
 | Asus Flox z13 i9      | WSL / Powercord / quiet       | 36.7s         |                              |
 | Asus Flox z13 i9      | WSL / no powercord / quiet    | 29.2s         |                              |
+| Asus Flox x16 AMD Ryzen 7 6800HS | no Powerchord, balanced |  20.3s        | 3.8 s                   |
+| Asus Flox x16 AMD Ryzen 7 6800HS | USB-C Powerchord, balanced | 22.1s         |  3.9s                |
 | Surface Pro 9 i7 16GB | Powercord / quiet             | 21.4s         |                              |
 | Surface Pro 9 i7 16GB | Powercord / blanced           | 19.7s         |                              |
 | Surface Pro 9 i7 16GB | Powercord / performance       | 19.029 s      | 1.831 s                      |
